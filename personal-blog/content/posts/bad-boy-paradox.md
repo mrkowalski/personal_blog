@@ -4,6 +4,4 @@ draft = true
 title = 'Bad Boy Paradox'
 +++
 
-# Bad Boy Paradox
-
 The "bad boy paradox" refers to the attraction some people feel towards individuals who display rebellious, risk-taking, or even slightly aggressive behaviors. The paradox lies in the conflict between the desire for security and stability, typically associated with "nice guys," and the excitement and allure of unpredictability often embodied by "bad boys."
