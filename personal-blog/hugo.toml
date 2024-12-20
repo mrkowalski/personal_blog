@@ -1,5 +1,5 @@
 baseURL = 'https://personal-blog-f2s.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Notes of Interest'
 theme = 'cactus'
 
