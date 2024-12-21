@@ -1,3 +1,9 @@
++++
+date = '2024-12-21T11:15:00Z'
+draft = true
+title = 'Is Time Travel Possible?'
++++
+
 We're all constantly moving forward in time, it's just that we can't control the speed or direction.
 
 A "time-travel-like" phenomenon is time dilation. It occurs when there's a significant difference in velocity or gravitational potential between two observers. It involves differences in the passage of time, but it doesn't allow for 'jumping' to different points in time.  It's more like a stretching or compression of time, rather than actual travel.
