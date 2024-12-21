@@ -1,8 +1,10 @@
 +++
-date = '2024-12-21T11:15:00Z'
+date = '2024-12-21T11:35:25+01:00'
 draft = true
 title = 'Is Time Travel Possible?'
+tags = ['physics']
 +++
+
 
 We're all constantly moving forward in time, it's just that we can't control the speed or direction.
 
